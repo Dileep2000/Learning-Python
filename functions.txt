@@ -1,0 +1,11 @@
+Functions
+- A function can take input and return output
+- Define block of code that we can easily re-use
+
+parameters
+default parameters
+return values
+
+def function_name(parameters):
+    statements to execute
+    return value

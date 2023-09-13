@@ -1,0 +1,17 @@
+Input and Output
+
+File Input and Fileout
+Console input and console output
+with input use interact with the program
+with output we can display desired values to the screen
+By default every input is a string. we can convert input into desired data type.
+
+Integrating file input and output
+- How to import data from files on computer
+- Save data into file
+- With open and operate on the file and closing the file after we finish using it
+
+file = open('filename', "r")
+file options r - read, w - write, a - append, r+ - read and write
+always do (file.close) after all file operations are done.
+By default, file will be opened in read mode

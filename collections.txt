@@ -1,0 +1,26 @@
+Collections
+
+Tuples
+- Similar to list but cannot change the values once declared and can't insert or make any changes to it.
+Lists
+- Can be store inside variables
+- useful for storing multiple pieces of data
+- group of relevant data
+Dictionaries
+- Store using Key-Value pairs
+Sets
+- Sets contain each unique element
+Both Dictionaries and Sets are unordered
+
+tuple()
+list()
+dict()
+set()
+
+Operations
+len()
+min()
+max()
+pop()
+del
+clear

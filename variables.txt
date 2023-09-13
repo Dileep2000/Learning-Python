@@ -1,0 +1,35 @@
+Variables
+- Variables can store all sorts of data
+- we can continuously change the data inside a variable.
+
+Type of Variables
+Integers
+Floating Values
+Booleans
+Strings
+Binary Values
+
+Operations and Conversions
+Arthematic
+Assignment
+Conditional
+
+Conversions
+int -> str
+int -> float
+int -> bool
+
+float -> int
+float -> str
+float -> bool
+
+bool -> int
+bool -> float
+bool -> str
+
+str ->bool
+If string is an integer then it can be converted into int or float otherwise it gives an error.
+
+Global and local variables
+String and int concatenation gives an error
+Only two string can be concatenated.

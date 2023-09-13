@@ -1,0 +1,35 @@
+Python Language Basics
+
+1 Variables
+- Types of variables with examples
+- Operations and conversions
+
+2 Collections:
+- Lists and Dictionaries
+- Operations
+
+3 Conditionals:
+- If Statements
+- while and for loops
+
+4 Functions
+- How to create and call functions
+- Functions with parameters and return values
+
+5 Classes
+- Create classes with fields and methods
+- Methods
+- attributes
+- instancing
+- inheritance
+
+6 Data Structures
+- lists
+- Dictionaries
+- Sets
+
+7 User input and output
+
+8 File input and output
+
+9 Error handling

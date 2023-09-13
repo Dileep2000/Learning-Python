@@ -1,0 +1,12 @@
+Class and Objects
+
+class class_name:
+    attributes
+    initializer
+    behaviours
+
+Inheritance
+- Creating an inheritance class
+- Initializing an inheritance class
+- what properties an inheritance
+- class has properties from the parent

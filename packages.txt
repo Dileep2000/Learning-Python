@@ -1,0 +1,7 @@
+Importing libraries
+Modules
+How to import module
+
+A different ways of importing the library
+Libraries help us reduce the amount of code we need to write
+using random library on lists

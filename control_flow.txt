@@ -1,0 +1,20 @@
+Control Flow
+- Allows to control program flow
+- more complex flow through if, elif and
+if else elif statement
+and
+or
+pass
+
+Loops
+- Repeating certain code for a desired amount
+- Iterate over lists
+while loop
+for loop
+continue
+- continue statement is used to skip the remaining part in the loop
+break
+- stops the loop and continue after the loop
+They are used with if checks to better control program flow.
+
+match case statement
